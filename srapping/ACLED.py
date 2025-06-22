@@ -4,7 +4,7 @@ import pandas as pd
 
 # Your ACLED API credentials
 API_KEY = "your_api_key"
-EMAIL = "christian.s.wilkinson@gmail.com"
+EMAIL = "email@email.com"
 
 # Folder to save data
 SAVE_DIR = "../data/ACLED"
